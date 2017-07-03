@@ -1,13 +1,9 @@
 package com.brik.mariobros;
 
-import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Game;
-import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.graphics.GL20;
-import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
-import Screens.playScreen;
+import com.brik.mariobros.Screens.playScreen;
 
 public class MarioBros extends Game {
     public static final int V_WIDTH = 400;
